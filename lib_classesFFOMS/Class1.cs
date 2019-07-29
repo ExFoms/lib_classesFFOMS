@@ -1,6 +1,6 @@
 ﻿using System.Xml.Serialization;
 
-//Соответствует справочнику F003
+//Соответствует федеральному справочнику F003
 //Версия 1.0.1
 public class mo_schema_1_0_1
 {
