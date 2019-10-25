@@ -1,6 +1,6 @@
 ﻿using System.Xml.Serialization;
 public class Schemes_FFOMS
-{
+{ 
     //Соответствует федеральному справочнику F003
     //Версия 1.0.1
     public class f003_schema_1_0_1
